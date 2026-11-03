@@ -66,3 +66,6 @@ to forward your Redis database to port 6379 on your computer and minio to local 
 We've produced two programs `sample-requests.py` and `short-sample-requests.py` that make some sample requests.
 
 Processing an MP3 file takes a while - they also take a fair amount of memory (at least 6GB in my experience). You're encouraged to use the `short-sample-requests.py` examples on your laptop and then try the longer samples when using GKE.
+
+## My implementation
+See [RUNNING.md](RUNNING.md) for setup, testing, and limitations.
